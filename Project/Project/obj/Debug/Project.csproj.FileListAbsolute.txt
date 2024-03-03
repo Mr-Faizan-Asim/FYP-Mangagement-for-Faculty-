@@ -1,0 +1,14 @@
+C:\Users\Star\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Star\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\Star\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\Star\source\repos\Project\Project\bin\Debug\Guna.UI2.dll
+C:\Users\Star\source\repos\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Star\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Star\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Star\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Star\source\repos\Project\Project\obj\Debug\Project.csproj.Up2Date
+C:\Users\Star\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\Star\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\Star\source\repos\Project\Project\obj\Debug\Project.Main.resources
+C:\Users\Star\source\repos\Project\Project\obj\Debug\Project.UI.SignUpAdvisor.resources
+C:\Users\Star\source\repos\Project\Project\obj\Debug\Project.UI.StudentUI.resources
