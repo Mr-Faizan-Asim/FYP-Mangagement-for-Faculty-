@@ -20,14 +20,12 @@ namespace Project.UI
             var con = Configuration.getInstance().getConnection();
             SqlCommand cmd = new SqlCommand("Select * from Lookup where Category = 'DESIGNATION';", con);
             SqlDataReader reader = cmd.ExecuteReader();
-
             while (reader.Read())
             {
                 guna2ComboBox1.Items.Add(reader.GetString(1)); 
             }
             reader.Close(); 
         }
-
         private void changer_TextChanged(object sender, EventArgs e)
         {
 
