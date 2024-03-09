@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Star\\source\\repos\\Analysis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|c:\\users\\star\\source\\repos\\analysis\\analysis\\control\\projectcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\control\\projectcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\view\\advisor\\advisormainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\view\\advisor\\advisormainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\view\\advisor\\advisormainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\view\\advisor\\advisormainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\view\\student\\studentsignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\view\\student\\studentsignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\view\\student\\studentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\view\\student\\studentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\model\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\model\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\view\\student\\studentsignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\view\\student\\studentsignupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\view\\advisor\\advisorsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\view\\advisor\\advisorsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\view\\advisor\\advisorsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\view\\advisor\\advisorsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\control\\evaluationcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\control\\evaluationcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\model\\personloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\model\\personloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\control\\groupcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\control\\groupcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\view\\student\\studentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\view\\student\\studentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\control\\genericcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\control\\genericcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\control\\studentcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\control\\studentcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\control\\personcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\control\\personcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\control\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\control\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|C:\\Users\\Star\\source\\repos\\Analysis\\analysis\\model\\validationmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA0FEEB-F45C-4C15-889E-2B85943EB83B}|Analysis\\Analysis.csproj|solutionrelative:analysis\\model\\validationmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdvisorMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\View\\Advisor\\AdvisorMainForm.cs",
+              "RelativeDocumentMoniker": "Analysis\\View\\Advisor\\AdvisorMainForm.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\View\\Advisor\\AdvisorMainForm.cs",
+              "RelativeToolTip": "Analysis\\View\\Advisor\\AdvisorMainForm.cs",
+              "ViewState": "AQIAAJMCAAAAAAAAAAAuwJkCAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:34:00.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Program.cs",
+              "RelativeDocumentMoniker": "Analysis\\Program.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Program.cs",
+              "RelativeToolTip": "Analysis\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:37:22.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectControler.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Control\\ProjectControler.cs",
+              "RelativeDocumentMoniker": "Analysis\\Control\\ProjectControler.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Control\\ProjectControler.cs",
+              "RelativeToolTip": "Analysis\\Control\\ProjectControler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T05:20:14.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdvisorMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\View\\Advisor\\AdvisorMainForm.cs",
+              "RelativeDocumentMoniker": "Analysis\\View\\Advisor\\AdvisorMainForm.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\View\\Advisor\\AdvisorMainForm.cs [Design]",
+              "RelativeToolTip": "Analysis\\View\\Advisor\\AdvisorMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T05:30:58.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentSignUpForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\View\\Student\\StudentSignUpForm.cs",
+              "RelativeDocumentMoniker": "Analysis\\View\\Student\\StudentSignUpForm.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\View\\Student\\StudentSignUpForm.cs [Design]",
+              "RelativeToolTip": "Analysis\\View\\Student\\StudentSignUpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:28:38.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\View\\Student\\StudentMainForm.cs",
+              "RelativeDocumentMoniker": "Analysis\\View\\Student\\StudentMainForm.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\View\\Student\\StudentMainForm.cs [Design]",
+              "RelativeToolTip": "Analysis\\View\\Student\\StudentMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T05:11:18.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminModel.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Model\\AdminModel.cs",
+              "RelativeDocumentMoniker": "Analysis\\Model\\AdminModel.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Model\\AdminModel.cs",
+              "RelativeToolTip": "Analysis\\Model\\AdminModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T11:58:24.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentSignUpForm.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\View\\Student\\StudentSignUpForm.cs",
+              "RelativeDocumentMoniker": "Analysis\\View\\Student\\StudentSignUpForm.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\View\\Student\\StudentSignUpForm.cs",
+              "RelativeToolTip": "Analysis\\View\\Student\\StudentSignUpForm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAEwDAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:28:43.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdvisorSignUp.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\View\\Advisor\\AdvisorSignUp.cs",
+              "RelativeDocumentMoniker": "Analysis\\View\\Advisor\\AdvisorSignUp.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\View\\Advisor\\AdvisorSignUp.cs",
+              "RelativeToolTip": "Analysis\\View\\Advisor\\AdvisorSignUp.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAEwGIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:20:10.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdvisorSignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\View\\Advisor\\AdvisorSignUp.cs",
+              "RelativeDocumentMoniker": "Analysis\\View\\Advisor\\AdvisorSignUp.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\View\\Advisor\\AdvisorSignUp.cs [Design]",
+              "RelativeToolTip": "Analysis\\View\\Advisor\\AdvisorSignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:55:32.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Form1.cs",
+              "RelativeDocumentMoniker": "Analysis\\Form1.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Form1.cs [Design]",
+              "RelativeToolTip": "Analysis\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:27:23.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Form1.cs",
+              "RelativeDocumentMoniker": "Analysis\\Form1.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Form1.cs",
+              "RelativeToolTip": "Analysis\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAtwCgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:27:25.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PersonLoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Model\\PersonLoginModel.cs",
+              "RelativeDocumentMoniker": "Analysis\\Model\\PersonLoginModel.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Model\\PersonLoginModel.cs",
+              "RelativeToolTip": "Analysis\\Model\\PersonLoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:20:26.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EvaluationControler.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Control\\EvaluationControler.cs",
+              "RelativeDocumentMoniker": "Analysis\\Control\\EvaluationControler.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Control\\EvaluationControler.cs",
+              "RelativeToolTip": "Analysis\\Control\\EvaluationControler.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:55:59.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GroupControler.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Control\\GroupControler.cs",
+              "RelativeDocumentMoniker": "Analysis\\Control\\GroupControler.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Control\\GroupControler.cs",
+              "RelativeToolTip": "Analysis\\Control\\GroupControler.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:32:19.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\View\\Student\\StudentMainForm.cs",
+              "RelativeDocumentMoniker": "Analysis\\View\\Student\\StudentMainForm.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\View\\Student\\StudentMainForm.cs",
+              "RelativeToolTip": "Analysis\\View\\Student\\StudentMainForm.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:17:31.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenericControler.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Control\\GenericControler.cs",
+              "RelativeDocumentMoniker": "Analysis\\Control\\GenericControler.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Control\\GenericControler.cs",
+              "RelativeToolTip": "Analysis\\Control\\GenericControler.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAASwE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:23:04.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentControler.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Control\\StudentControler.cs",
+              "RelativeDocumentMoniker": "Analysis\\Control\\StudentControler.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Control\\StudentControler.cs",
+              "RelativeToolTip": "Analysis\\Control\\StudentControler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:29:07.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Control\\Configuration.cs",
+              "RelativeDocumentMoniker": "Analysis\\Control\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Control\\Configuration.cs",
+              "RelativeToolTip": "Analysis\\Control\\Configuration.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAjwBYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:42:14.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PersonControler.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Control\\PersonControler.cs",
+              "RelativeDocumentMoniker": "Analysis\\Control\\PersonControler.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Control\\PersonControler.cs",
+              "RelativeToolTip": "Analysis\\Control\\PersonControler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:19:56.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ValidationMod.cs",
+              "DocumentMoniker": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Model\\ValidationMod.cs",
+              "RelativeDocumentMoniker": "Analysis\\Model\\ValidationMod.cs",
+              "ToolTip": "C:\\Users\\Star\\source\\repos\\Analysis\\Analysis\\Model\\ValidationMod.cs",
+              "RelativeToolTip": "Analysis\\Model\\ValidationMod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:43:37.848Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
